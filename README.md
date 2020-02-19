@@ -7,7 +7,7 @@ The algorithm was trained using the MNIST database. It's based on a decision tre
 ## How to use this
 If you just want to try this out have a look at the [project page](https://z80z80z80.itch.io/gameboy-ai), where you can play it online.
 
-Additionaly you can download the ROM-file [here](""). It also works on original Game Boy hardware with a flash cartridge.
+Additionaly you can download the ROM-file [here](https://github.com/z80z80z80/GameBoyAI/raw/master/model.gb). It also works on original Game Boy hardware with a flash cartridge.
 
 ## How to build
 ### Install requirements
