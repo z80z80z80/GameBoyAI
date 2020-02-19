@@ -21,6 +21,7 @@ Additionaly you can download the ROM-file ["here"](""). It also works on origina
 ### Build instructions 
 - (A) compiling using the prebuilt decision tree:
    `python convert_decision_tree.py prebuilt_tree`
+   `make`
 
 - (B) compiling from scratch:
    `python train_decision_tree.py <max_depth> <verbose> <outfile>`
@@ -28,7 +29,9 @@ Additionaly you can download the ROM-file ["here"](""). It also works on origina
       `<verbose>`: use `1` to see some benchmarks; use `0` for production (I used `0`)
       `<outfile>`: the file where to save the decision tree
    `python convert_decision_tree.py <outfile>`
+   `make`
 
    Example: 
    `python train_decision_tree.py 10 0 new`
    `python convert_decision_tree.py new`
+   `make`
