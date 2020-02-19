@@ -1,4 +1,5 @@
 ## About
+<img src="https://img.itch.zone/aW1hZ2UvNTMxMzM1LzI3NjIzNzIucG5n/original/UxmsgW.png" width="348" height="313" />
 This is a very basic AI implementation for digits recognition.
 
 The algorithm was trained using the MNIST database. It's based on a decision tree and isn't too accurate because of the memory constraints of the gameboy. I originally planned to use neural networks but it wouldn't have been a lot more accurate and I wanted to finish the project in a single day.
